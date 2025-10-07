@@ -1,11 +1,11 @@
-# 🧭 Introduction to GitHub — Learning Repository
+# Introduction to GitHub — Learning Repository
 
 Welcome to the **GitHub Introduction** repository!  
 This space is designed for **new IT professionals, students, and early-career engineers** who want to learn how to use GitHub effectively through guided examples and hands-on practice.
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 This repository helps you:
 - Understand the core concepts of **Git** and **GitHub**.
@@ -15,21 +15,21 @@ This repository helps you:
 
 ---
 
-## 📚 Prerequisites
+## Prerequisites
 
 Before starting the tutorials or lab exercises in this repository, please complete the following **Microsoft Learn modules**:
 
-1. [🧩 Introduction to GitHub](https://learn.microsoft.com/en-us/training/modules/introduction-to-github/)  
+1. [Introduction to GitHub](https://learn.microsoft.com/en-us/training/modules/introduction-to-github/)  
    > Learn how to collaborate using GitHub, manage repositories, and understand branches, commits, and pull requests.
 
-2. [💻 Introduction to Git](https://learn.microsoft.com/en-us/training/modules/intro-to-git/)  
+2. [Introduction to Git](https://learn.microsoft.com/en-us/training/modules/intro-to-git/)  
    > Understand Git fundamentals, local repositories, commits, branching, and how Git tracks changes.
 
 These short self-paced modules are **free** and provide the foundation you’ll need to follow the guides here confidently.
 
 ---
 
-## 🧱 Repository Contents
+## Repository Contents
 
 | File | Description |
 |------|--------------|
@@ -38,7 +38,7 @@ These short self-paced modules are **free** and provide the foundation you’ll 
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 After completing the prerequisite Microsoft Learn modules:
 
@@ -51,7 +51,7 @@ After completing the prerequisite Microsoft Learn modules:
 
 ---
 
-## 🧠 Learning Goals
+## Learning Goals
 
 By the end of these exercises, you will be able to:
 - Create and manage repositories in GitHub.
@@ -61,7 +61,7 @@ By the end of these exercises, you will be able to:
 
 ---
 
-## 💡 Tips for Success
+## Tips for Success
 
 - Take your time and explore the **GitHub web interface** — click every menu to see what it does.
 - Use **GitHub Codespaces** if you don’t want to install anything locally.
@@ -70,7 +70,7 @@ By the end of these exercises, you will be able to:
 
 ---
 
-## 🧾 Licence
+## Licence
 
 This repository is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** licence.  
 You are free to share and adapt the material, provided appropriate credit is given.  
