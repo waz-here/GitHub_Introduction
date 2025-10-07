@@ -1,6 +1,6 @@
 ---
-title: How to Import an Existing Repository into GitHub
-description: Step-by-step guide to import a repository using both the GitHub web interface (GUI) and the command line (CLI). Example used: https://github.com/waz-here/GitHub_Introduction.git
+title: "How to Import an Existing Repository into GitHub"
+description: "Step-by-step guide to import a repository using both the GitHub web interface (GUI) and the command line (CLI). Example used: https://github.com/waz-here/GitHub_Introduction.git"
 ---
 
 # 🔄 Importing an Existing Repository into GitHub
