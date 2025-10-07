@@ -130,6 +130,3 @@ If you’re not sure which to start with:
 - Add a **Project** board when you have multiple tasks to manage.
 
 ---
-
-*Author: Warren Finch*  
-*For: GitHub Beginners — Network Engineering & DFIR Projects Guide*
