@@ -17,16 +17,18 @@ This quick primer gets you from zero to contributing confidently.
 ```bash
 # install git (example: Ubuntu)
 sudo apt update && sudo apt install -y git
-
+```
 
 # identify yourself
+```bash
 git config --global user.name "Your Name"
 git config --global user.email "you@example.com"
-
+```
 
 # optional: default to main
+```bash
 git config --global init.defaultBranch main
-
+```
 ## 3. Create a repo on GitHub
 
 - Sign in to GitHub and click New repository.
@@ -34,34 +36,46 @@ git config --global init.defaultBranch main
 - Copy the HTTPS clone URL.
 
 ## 4. Clone & first commit
+```bash
 git clone https://github.com/<you>/containerlab-ixp-labs.git
 cd containerlab-ixp-labs
+```
 
 
 # create or edit files
+```bash
 mkdir -p labs/ixp docs topologies scripts
-
+```
 # stage and commit
+```bash
 git add .
 git commit -m "feat: repo scaffold and initial lab guides"
+```
 
 # push to GitHub
+```bash
 git push origin main
+```
 
 ## 5. Safe collaboration with branches
 # create a feature branch
+```bash
 git checkout -b feature/add-troubleshooting
+```
 
 # make edits, then
+```bash
 git add labs/ixp/06_troubleshooting.md
 git commit -m "docs(ixp): add troubleshooting guide"
-
+```
+```bash
 git push -u origin feature/add-troubleshooting
+```bash
 
 Open a Pull Request on GitHub → request review → Merge when approved.
 
 ## 6. Everyday commands cheat‑sheet
-```
+```bash
 git status # what changed?
 git add <file> # stage changes
 git commit -m "message" # save a snapshot
