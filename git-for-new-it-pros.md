@@ -91,13 +91,13 @@ git push # upload your commits to GitHub
 4. git push and open a PR
 5. Review, fixups, merge
 
-8. Fixing common hiccups
+## 8. Fixing common hiccups
 
 * Forgot to create a branch? Create one now and push: git checkout -b feature/xyz && git push -u origin HEAD
 * Merge conflicts? Git shows conflict markers <<<<<<< → edit file → git add → git commit
 * Accidentally committed secrets? Rotate the secret immediately. Use git filter-repo later to rewrite history (advanced).
 
-9. Good practices
+## 9. Good practices
 
 * Write clear commit messages: type(scope): short summary
 * Small PRs are faster to review
