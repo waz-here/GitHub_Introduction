@@ -1,8 +1,3 @@
----
-title: "How to Import an Existing Repository into GitHub"
-description: "Step-by-step guide to import a repository using both the GitHub web interface (GUI) and the command line (CLI). Example used: https://github.com/waz-here/GitHub_Introduction.git"
----
-
 # 🔄 Importing an Existing Repository into GitHub
 
 If you already have a repository hosted elsewhere (or want to copy someone else’s public repo into your own account), you can **import** it using either the **web interface (GUI)** or the **command line (CLI)**.
