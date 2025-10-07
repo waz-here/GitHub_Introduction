@@ -100,6 +100,6 @@ git push # upload your commits to GitHub
 ## 9. Good practices
 
 * Write clear commit messages: type(scope): short summary
-* Small PRs are faster to review
+* Small PRs (Pull Requests) are faster to review
 * Keep main protected; use PRs
 * Use .gitignore to avoid committing build artefacts, large images, secrets
