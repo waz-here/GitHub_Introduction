@@ -70,7 +70,7 @@ git commit -m "docs(ixp): add troubleshooting guide"
 ```
 ```bash
 git push -u origin feature/add-troubleshooting
-```bash
+```
 
 Open a Pull Request on GitHub → request review → Merge when approved.
 
