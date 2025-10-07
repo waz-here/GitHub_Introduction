@@ -86,7 +86,7 @@ Each one creates something different — here’s what they do, why you’d use 
 **Think of it as:** A company or community workspace inside GitHub.
 
 **Example use:**
-- Group repositories for a team, e.g., `apnic-training` or `pwc-dfir`.
+- Group repositories for a team, e.g., `ABC Company` or `ISOC-IXP-Training`.
 - Manage multiple projects with shared permissions.
 
 **Why use it:**
